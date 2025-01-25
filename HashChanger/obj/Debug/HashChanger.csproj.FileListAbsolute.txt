@@ -1,0 +1,15 @@
+C:\Users\Je\source\repos\HashChanger\HashChanger\bin\Debug\HashChanger.exe.config
+C:\Users\Je\source\repos\HashChanger\HashChanger\bin\Debug\HashChanger.exe
+C:\Users\Je\source\repos\HashChanger\HashChanger\bin\Debug\HashChanger.pdb
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.csproj.AssemblyReference.cache
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\MainWindow.g.cs
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\App.g.cs
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger_MarkupCompile.cache
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger_MarkupCompile.lref
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\MainWindow.baml
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.g.resources
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.Properties.Resources.resources
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.csproj.GenerateResource.cache
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.csproj.CoreCompileInputs.cache
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.exe
+C:\Users\Je\source\repos\HashChanger\HashChanger\obj\Debug\HashChanger.pdb
